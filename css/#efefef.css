@@ -1,0 +1,8 @@
+#web_bg {
+  /* 背景图像的地址（url括号里）  */
+  background: url(C:\Users\86178\Pictures\v2-04ea4ed8660887948c930caf8bffb016_r.jpg);
+  /* 背景图像不重复 */
+  background-repeat: no-repeat;
+  /* 背景图像大小 */
+  background-size: cover;
+}
